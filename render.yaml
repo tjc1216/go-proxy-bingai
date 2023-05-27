@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: bingai
+    name: tjc-newbing
     # oregon: frankfurt
     plan: free
     env: go
